@@ -38,8 +38,12 @@
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me 
+
 📧 Email : **Sanjanakachare9@gmail.com**
+   GitHub :sanjanakachare911
+   linkedIn:https://www.linkedIn.com/in/sanjana-kachare-9530873773
+
 
 ---
 
