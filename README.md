@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SanjanaKachare911</h1>
+<h1 align="center">Hi 👋, I'm Sanjana Kachare</h1>
 
 <h3 align="center">Software Testing Student | Manual & API Testing Enthusiast</h3>
 
