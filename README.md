@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjana Kachare</h1>
 
 <h3 align="center">Software Testing Student | Manual & API Testing Enthusiast</h3>
-
-   <img align="right" alt="coding" width="500"src=https://user">
+ <img align="right" alt="coding" width="500"src=https://user">
 <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/23d1ab46-3f88-4f19-98ee-23b1dbf13900" />
 <p align="left"><img src="<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/95ffa7bd-03e2-4a3f-abc7-d4a9ff26bbb5" /> </p>p>
 
