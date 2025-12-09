@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm SanjanaKachare911</h1>
 
-<!--
-**sanjanakachare911/sanjanakachare911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Testing Student | Manual & API Testing Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+🔹 Passionate Software Testing learner with strong interest in Quality Assurance  
+🔹 Skilled in Manual Testing, Bug Reporting & Test Case Design  
+🔹 Exploring Automation Testing with Selenium  
+🔹 Always curious to learn new testing tools & technologies  
+
+---
+
+### 🧠 Skills & Tools  
+- **Testing Skills:** Manual Testing, API Testing  
+- **Programming & DB:** Java, SQL  
+- **Tools I Use:** Postman, Eclipse, Edit+, SQL Plus, Actitime, VS Code  
+- **Learning:** Selenium for Test Automation  
+
+---
+
+### 🛠️ Tech Stack  
+| Programming | Database | Testing Tools | Other Tools |
+|------------|----------|---------------|-------------|
+| Java | MySQL | Postman | VS Code |
+| | | Manual Testing | Eclipse |
+| | | API Testing | Edit+ |
+| | | | SQL Plus, Actitime |
+
+---
+
+### 📊 GitHub Stats  
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjanakachare911&show_icons=true&theme=tokyonight" alt="Sanjana stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanakachare911&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 📫 Connect With Me  
+📧 Email : **Sanjanakachare9@gmail.com**
+
+---
+
+⭐ *I enjoy finding bugs and improving product quality!*
+
